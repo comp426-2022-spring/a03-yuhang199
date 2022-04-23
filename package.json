@@ -12,6 +12,7 @@
   },
   "author": "Zhou Yuhang",
   "license": "GPL-3.0-or-later",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a03-yuhang199/issues"
   },
