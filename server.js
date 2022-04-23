@@ -1,5 +1,6 @@
 import { coinFlips, countFlips, coinFlip, flipACoin } from "./modules/coin.mjs"
 import minimist from 'minimist'
+import express from 'express'
 const express = require('express')
 const app = express()
 const arg = minimist(process.argv.slice(2))
